@@ -10,3 +10,4 @@ List of useful sites for developers, designers and others
 # Others
 ### [Pika](https://pika.style/)
 [![image](https://user-images.githubusercontent.com/83653555/173683462-1ac0c1ea-5140-4598-9728-df5a5b9bee15.png)](https://pika.style/)
+
